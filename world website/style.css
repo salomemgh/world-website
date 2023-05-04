@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+@font-face {
+    font-family: montserrat-semibold;
+    src: url(Montserrat-SemiBold.ttf);
+}
+@font-face {
+    font-family: montserrat-regular;
+    src: url(Montserrat-Regular.ttf);
+}
+a{
+    font-family: montserrat-semibold;
+}
+
+.p_linus{
+    margin: 0;
+    font-weight: 600;
+    font-size: 28px;
+    color: #ffffff;
+    font-family: montserrat-semibold;
+    margin-left: 287px;
+}
+.h2_bringing{
+    font-weight: 600;
+    font-size: 80px;
+    color: #ffffff;
+    font-family: montserrat-semibold;
+    margin-left: 287px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+.p_lorem{
+    font-weight: 500;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: montserrat-semibold;
+    margin-left: 287px;
+}
+.texts_p{
+    margin: 290px auto;
+}
+.p_text{
+    font-weight: 600;
+    font-size: 55px;
+    color: #ffffff;
+    font-family: montserrat-semibold;
+}
+.p_latest{
+    font-family: montserrat-semibold;
+}
+.p_lorem2{
+    font-weight: 600;
+    font-size: 28px;
+    color: #ffffff;
+    font-family: montserrat-semibold;
+}
+.p_lorem3{
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: montserrat-regular;
+}
+.button1{
+    width: 145px;
+    height: 44px; 
+    background: #D9D9D9; 
+    border: none;
+    border-radius: 24px;
+}
+.a_read{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: #071917;
+    font-family: montserrat-regular;
+}
